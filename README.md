@@ -1,4 +1,5 @@
 **🕵️‍♂️ Dev Detective**
+
 Dev Detective is a sleek and simple web application that allows users to search for GitHub profiles and view detailed information about developers in a visually appealing format.
 
 **🔧 Tech Stack**

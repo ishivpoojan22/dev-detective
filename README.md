@@ -14,6 +14,8 @@ JavaScript – Logic for fetching GitHub API data and updating the UI dynamicall
 
 [Visit](https://ishivpoojan22.github.io/dev-detective/)
 
+[Hosting](https://detectivegithub.netlify.app/)
+
 **🚀 Features**
 
 
